@@ -1,5 +1,13 @@
 # 🔐 ssh-mcp-server
 
+![GitHub forks](https://img.shields.io/github/forks/classfang/ssh-mcp-server)
+![GitHub Repo stars](https://img.shields.io/github/stars/classfang/ssh-mcp-server)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/classfang/ssh-mcp-server)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/classfang/ssh-mcp-server)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/classfang/ssh-mcp-server)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/classfang/ssh-mcp-server)
+
+
 SSH-based MCP (Model Context Protocol) server that allows remote execution of SSH commands via the MCP protocol.
 
 English Document | [中文文档](README_CN.md)
